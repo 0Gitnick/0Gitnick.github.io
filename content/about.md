@@ -18,7 +18,7 @@ My BTC and ETH addresses don't change, so [you won't be fully anonymous](https:/
 * [Liberapay](https://liberapay.com/0gitnick)
 
 ### Site Mirrors<a name="Site_Mirrors"></a>
-* Clearnet: [0gitnick.xyz](https://0gitnick.xyz) | [0gitnick.gitlab.io](https://0gitnick.gitlab.io) | [0gitnick.github.io](https://0gitnick.github.io)
+* Clearnet: [0gitnick.xyz](https://0gitnick.xyz) | [0gitnick.gitlab.io](https://0gitnick.gitlab.io) | [0gitnick.github.io](https://0gitnick.github.io) | [0gitnick.fuuka.ml](https://0gitnick.fuuka.ml)
 * I2p: [0gitnick.i2p](http://0gitnick.i2p) | [base32 link](http://xpw6ynhbxxuqsr6spcnfiyvuhvimm3jg7uti2oqv3jlh76j532oa.b32.i2p)
 * Tor: [onion](http://gitnickkff6dtksy4txvwmgibwa3x5syfcyzk6kjnisuknuutwtumdid.onion)
 * Zeronet: [zite](http://127.0.0.1:43110/1NL5Z4ooMiEjrzN1n8cyKbbptqU8QTyZbe)
