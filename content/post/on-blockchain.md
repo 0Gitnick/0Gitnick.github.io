@@ -5,11 +5,9 @@ tags: ["computing"]
 summary: "Can blockchain live up to the hype? Can its problems be fixed? What is its future? What about DAGs? What is the future of cryptocurrency? I have several predictions."
 draft: false
 ---
-Blockchain is a topic I've had thoughts on for a while now. I just never got around to writing about it. There's no shortage of wild, baseless assertions in the "crypto space" about the future of blockchain. I want to clear the air by speaking sensibly about blockchain. In accordance with my theme of not assuming prior knowledge, check out the [video](https://invidious.snopyta.org/watch?v=SSo_EIwHSd4&dark_mode=true&autoplay=1) below if you're unfamiliar with blockchain.
+Blockchain is a topic I've had thoughts on for a while now. I just never got around to writing about it. There's no shortage of wild, baseless assertions in the "crypto space" about the future of blockchain. I want to clear the air by speaking sensibly about blockchain. In accordance with my theme of not assuming prior knowledge, check out the video below if you're unfamiliar with blockchain.
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 51%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://invidious.snopyta.org/embed/SSo_EIwHSd4" frameborder="0" sandbox allowfullscreen="true" referrerpolicy="no-referrer"></iframe>
-</div>
+[[Video Link]](https://redirect.invidious.io/watch?v=SSo_EIwHSd4&dark_mode=true&autoplay=1)
 
 I'm going to talk about blockchain in the context of cryptocurrencies. Henceforth understand when I use the term "blockchain" I really mean blockchain as used in cryptocurrency. I know there are other potential use cases but I have to limit the scope of this post or it won't end. Now while I have plenty of criticism for blockchain, first I have to give the devil his due.
 

@@ -9,5 +9,5 @@ In his [Making Sense](https://samharris.org/podcast) podcast [Sam Harris](https:
 I had a very similar if not the same opinion of Trump 4 years ago. I immediately recognized him as a narcissistic unintelligent con man unfit for public office. If I had expressed my opinion at the time in writing it probably would have sounded much like these clips from the Making Sense podcast. Although much has happened since 2016, I still find these clips worth sharing.
 
 \[Links Below\]  
-[Episode #38](https://invidious.snopyta.org/watch?v=jLvabd32jDA&dark_mode=true&autoplay=1&start=544&end=2366) (31 min)  
-[Episode #45](https://invidious.snopyta.org/watch?v=3yBGE80covk&dark_mode=true&autoplay=1) (15 min)
+[Episode #38](https://redirect.invidious.io/watch?v=jLvabd32jDA&dark_mode=true&autoplay=1&start=544&end=2366) (31 min)  
+[Episode #45](https://redirect.invidious.io/watch?v=3yBGE80covk&dark_mode=true&autoplay=1) (15 min)

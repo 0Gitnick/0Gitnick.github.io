@@ -30,8 +30,6 @@ __Trump Supporter__: "He wouldn't do that."
 
 Studies in the field of psychology have shown that the color of the walls in a room, the temperature of a coffee offered to test subjects, and the wording of a question can all influence the outcome of an experiment. But the test subjects _never_ cite those things as significant factors in their decision making despite the statistics indicating they _were_ significant influences. The same sort of phenomenon is occurring when Trump supporters explain why Trump is appealing. The reasons they give are reasons they _believe_ they find him appealing, but not the _actual_ reasons. There are underlying psychological influences at play.
 
-Sam Harris has a fascinating take on Trump's appeal which suggests what one of those underlying psychological influences might be. I'll let him do [the talking](https://invidious.snopyta.org/watch?v=j3xBUNIkA_c&dark_mode=true&autoplay=1):
+Sam Harris has a fascinating take on Trump's appeal which suggests what one of those underlying psychological influences might be. I'll let him do the talking:
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 51%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://invidious.snopyta.org/embed/j3xBUNIkA_c" frameborder="0" sandbox allowfullscreen="true" referrerpolicy="no-referrer"></iframe>
-</div>
+[[Video Link]](https://redirect.invidious.io/watch?v=j3xBUNIkA_c&dark_mode=true&autoplay=1)
