@@ -1,0 +1,94 @@
+title = "Nicholas Johnson"
+
+theme = "0gitnick"
+relativeURLs = true
+baseURL = "https://0gitnick.xyz"
+hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
+disableHugoGeneratorInject = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+## Change this two to switch between different language
+languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
+defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
+
+summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+paginate = 10
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[permalinks]
+  post = "/:title/"
+
+[params]
+  author = "Nicholas Johnson" # You can also set author in post front matter individually
+  subTitle = "Greetings netizen! Enjoy your stay."
+
+  # Word counter and read time indicator in post metadata
+  showWordCounter = true
+  showReadTime = true
+
+  # License in the footer
+  showLicenseInFooter = true
+
+  # Copyright
+  copyrightStartYear = "2019"
+
+  # Posts shown in homepage
+  mainSections = ["post"]
+
+  # License
+  license = "CC BY-ND 4.0"
+  licenseLink = "https://creativecommons.org/licenses/by-nd/4.0/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content
+  [markup.highlight]
+    codeFences = true  # Enable Hugo's code highlighter
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 3
+
+  [[menu.link]]
+    name = "PGP"
+    url = "/pub_key.asc"
+    weight = 1
+  [[menu.link]]
+    name = "Email"
+    url = "mailto:nicholasjohnson@posteo.org"
+    weight = 2
+  [[menu.link]]
+    name = "Code"
+    url = "https://savannah.nongnu.org/users/gitnick"
+    weight = 3
+  [[menu.link]]
+    name = "Tor Relay"
+    url = "https://metrics.torproject.org/rs.html#details/0B4E3C54AF4566E96666728B8FFD1B6B4CB568DF"
+    weight = 4
+
+# User rules
+[minify]
+  minifyOutput = true
