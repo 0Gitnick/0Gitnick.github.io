@@ -2,6 +2,7 @@
 title: "SIUe Cyberstalking Feature"
 date: 2020-06-06
 tags: ["privacy", "SIUe"]
+summary: "Every SIUe student, faculty and staff member's full name, year, address and phone number has been available through the university [search engine](https://www.siue.edu/search/people.shtml) for _years_. It could facilitate stalking and it's a _huge_ data privacy concern. It should _at least_ be behind a login portal and remove phone numbers and addresses."
 draft: false
 ---
 [https://www.siue.edu/search/people.shtml](https://www.siue.edu/search/people.shtml)

@@ -2,6 +2,7 @@
 title: "Rejecting Discord and Google Colab"
 date: 2020-03-30
 tags: ["computing", "free software", "SIUe"]
+summary: "This is my free software story. This semester I took Deep Learning at [SIUe](https://www.siue.edu). Deep learning is a senior level CS elective course. I'll call the professor, \"Professor X\" to preserve anonymity."
 draft: false
 ---
 ## Background

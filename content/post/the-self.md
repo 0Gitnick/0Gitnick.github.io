@@ -2,6 +2,7 @@
 title: "The Self"
 date: 2020-05-02
 tags: ["philosophy", "spirituality"]
+summary: "There is no isolated, unchanging self that answers to the name of \"I\". The feeling that there is this self, this center to the flow of experience, is only an illusion. Experience has no center. The self is the unbearable burden that we're all better off without."
 draft: false
 ---
 # Language

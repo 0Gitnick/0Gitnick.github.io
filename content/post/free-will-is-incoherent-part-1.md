@@ -2,6 +2,7 @@
 title: "Free Will is Incoherent - Part 1"
 date: 2020-06-19
 tags: ["philosophy"]
+summary: "I present a formal, objective knock down argument against free will refuting the common arguments for it and show how lack of free will is actually liberating, not nihilistic."
 draft: false
 ---
 ## Preface

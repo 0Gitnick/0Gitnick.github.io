@@ -2,6 +2,7 @@
 title: "The Tipping Point - Rejecting Windows, Zoom, Lockdown Browser, and the Lockdown Monitor"
 date: 2020-03-30
 tags: ["computing", "free software", "SIUe"]
+summary: "This is my free software story. This semester I took networking at [SIUe](https://www.siue.edu). Networking is a senior level CS course. I'll call the professor, \"Professor X\" to preserve anonymity."
 draft: false
 ---
 ## Background

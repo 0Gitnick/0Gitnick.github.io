@@ -2,6 +2,7 @@
 title: "Exposing Zoom"
 date: 2020-05-23
 tags: ["computing", "free software", "privacy"]
+summary: "Since COVID-19 spread everywhere, the world now relies on Zoom to provide video communication for job meetings, university classrooms, courtrooms, government meetings, mental health services and personal interactions. It is based in China, a surveillance state country with little government/corporate separation currently committing cultural genocide against Uyghurs. Zoom itself has an awful security and privacy track record and contains _known_ malicious features. What could _possibly_ go wrong?"
 draft: false
 ---
 # Foreword

@@ -2,6 +2,7 @@
 title: "Rejecting Visual Studio"
 date: 2020-04-30
 tags: ["computing", "free software", "SIUe"]
+summary: "This is my free software story. This semester I took Intro to Artificial Intelligence at [SIUe](https://www.siue.edu). Artificial Intelligence is a senior level course. I'll call the professor, \"Professor X\" to preserve anonymity."
 draft: false
 ---
 ## Background

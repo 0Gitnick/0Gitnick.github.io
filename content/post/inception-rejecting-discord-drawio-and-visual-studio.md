@@ -2,6 +2,7 @@
 title: "Inception - Rejecting Discord, Draw.io, and Visual Studio"
 date: 2020-03-30
 tags: ["computing", "free software", "SIUe"]
+summary: "This is my free software story. In the spring of 2018, I took software engineering at [SIUe](https://www.siue.edu). Software engineering is a junior level CS course. In my view, it serves as preparation for the more demanding two semester development effort that is the senior project. I'll call the professor, \"Professor X\" to preserve anonymity."
 draft: false
 ---
 ## Background

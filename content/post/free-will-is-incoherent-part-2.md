@@ -2,6 +2,7 @@
 title: "Free Will is Incoherent - Part 2"
 date: 2020-08-22
 tags: ["philosophy"]
+summary: "In [part 1](/free-will-is-incoherent-part-1) I showed that free will is incoherent. In part 2 I discuss the implications of that fact on responsibility, compassion, justice and interpersonal relationships."
 draft: false
 ---
 ## Recap
