@@ -8,7 +8,7 @@ My name is Nicholas Johnson. I write this blog to educate and share my philosoph
 For business inquiries, send me an [email](mailto:nicholasjohnson@posteo.org). I'm look for work.
 
 ### Identity
-[PGP](/pub_key.asc) | [Email](mailto:nicholasjohnson@posteo.org) | [Code](https://savannah.nongnu.org/users/gitnick) | [Tor Relay](https://metrics.torproject.org/rs.html#details/0B4E3C54AF4566E96666728B8FFD1B6B4CB568DF)
+[PGP](/pub_key.asc) | [Email](mailto:nicholasjohnson@posteo.org) | [Code](https://git.0gitnick.xyz/0gitnick) | [Tor Relay](https://metrics.torproject.org/rs.html#details/0B4E3C54AF4566E96666728B8FFD1B6B4CB568DF)
 
 ### Donate
 My BTC address doesn't change, so [you won't be fully anonymous](https://en.bitcoin.it/wiki/Address_reuse). Enter `0gitnick.xyz` in the recipient address field if your BTC/XMR client supports [OpenAlias](https://openalias.org).

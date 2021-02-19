@@ -82,7 +82,7 @@ paginate = 10
     weight = 2
   [[menu.link]]
     name = "Code"
-    url = "https://savannah.nongnu.org/users/gitnick"
+    url = "https://git.0gitnick.xyz/0gitnick"
     weight = 3
   [[menu.link]]
     name = "Tor Relay"
