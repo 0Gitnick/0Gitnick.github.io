@@ -1,3 +1,5 @@
+# Modified from: https://gohugo.io/hosting-and-deployment/hosting-on-gitlab/
+
 image: monachus/hugo
 
 variables:

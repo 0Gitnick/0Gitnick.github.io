@@ -1,3 +1,6 @@
+# Modified from: https://github.com/dsrkafuu/hugo-theme-fuji/blob/master/exampleSite/config.toml
+# License (Apache 2.0): https://github.com/dsrkafuu/hugo-theme-fuji/blob/master/LICENSE
+
 title = "Nicholas Johnson"
 
 theme = "0gitnick"
@@ -8,6 +11,7 @@ enableEmoji = true
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
 disableKinds = ["taxonomy"]
+ignoreFiles = ["LICENSE.txt", "post/LICENSE.txt"]
 ignoreErrors = ["error-disable-taxonomy"]
 
 ## Change this two to switch between different language
