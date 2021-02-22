@@ -26,11 +26,11 @@
 &lt;h3 id="identity">Identity&lt;/h3>
 &lt;p>&lt;a href="./pub_key.asc">PGP&lt;/a> | &lt;a href="mailto:nicholasjohnson@posteo.org">Email&lt;/a> | &lt;a href="https://git.0gitnick.xyz/0gitnick">Code&lt;/a> | &lt;a href="https://metrics.torproject.org/rs.html#details/0B4E3C54AF4566E96666728B8FFD1B6B4CB568DF">Tor Relay&lt;/a>&lt;/p>
 &lt;h3 id="donate">Donate&lt;/h3>
-&lt;p>My BTC address doesn&amp;rsquo;t change, so &lt;a href="https://en.bitcoin.it/wiki/Address_reuse">you won&amp;rsquo;t be fully anonymous&lt;/a>. Enter &lt;code>0gitnick.xyz&lt;/code> in the recipient address field if your BTC/XMR client supports &lt;a href="https://openalias.org">OpenAlias&lt;/a>.&lt;/p>
+&lt;p>My BTC and ETH addresses don&amp;rsquo;t change, so &lt;a href="https://en.bitcoin.it/wiki/Address_reuse">you won&amp;rsquo;t be fully anonymous&lt;/a>. Enter &lt;code>0gitnick.xyz&lt;/code> in the recipient address field if your client supports &lt;a href="https://openalias.org">OpenAlias&lt;/a>.&lt;/p>
 &lt;ul>
 &lt;li>XMR: &lt;code>432pLNAiGajaoxwpnB5s6rgkHDRp8MveDCifg8s7fok1U6YVU5BSsjBM9hzFiZNMVxUjGDPv2m2P1SpcWvT9nJbEFowZdsi&lt;/code> [&lt;a href="./xmr_address.png">QR Code&lt;/a>]&lt;/li>
 &lt;li>BTC: &lt;code>1NL5Z4ooMiEjrzN1n8cyKbbptqU8QTyZbe&lt;/code> [&lt;a href="./btc_address.png">QR Code&lt;/a>]&lt;/li>
-&lt;li>ETH &amp;amp; Tokens: &lt;code>0x88d22af4f2bda1918e744fd98af3846db06965dc&lt;/code> [&lt;a href="./eth_address.png">QR Code&lt;/a>]&lt;/li>
+&lt;li>ETH &amp;amp; Tokens: &lt;code>0x88d22af4f2bda1918e744fd98af3846db06965dc&lt;/code> [&lt;a href="./eth_address.png">QR Code&lt;/a>]&lt;/li>
 &lt;li>&lt;a href="https://liberapay.com/0gitnick">Liberapay&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="site-mirrorsa-namesite_mirrorsa">Site Mirrors&lt;a name="Site_Mirrors">&lt;/a>&lt;/h3>
