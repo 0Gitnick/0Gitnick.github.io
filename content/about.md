@@ -11,10 +11,10 @@ For business inquiries, send me an [email](mailto:nicholasjohnson@posteo.org). I
 [PGP](/pub_key.asc) | [Email](mailto:nicholasjohnson@posteo.org) | [Code](https://git.0gitnick.xyz/0gitnick) | [Tor Relay](https://metrics.torproject.org/rs.html#details/0B4E3C54AF4566E96666728B8FFD1B6B4CB568DF)
 
 ### Donate
-My BTC address doesn't change, so [you won't be fully anonymous](https://en.bitcoin.it/wiki/Address_reuse). Enter `0gitnick.xyz` in the recipient address field if your BTC/XMR client supports [OpenAlias](https://openalias.org).
+My BTC and ETH addresses don't change, so [you won't be fully anonymous](https://en.bitcoin.it/wiki/Address_reuse). Enter `0gitnick.xyz` in the recipient address field if your client supports [OpenAlias](https://openalias.org).
 * XMR:&nbsp;`432pLNAiGajaoxwpnB5s6rgkHDRp8MveDCifg8s7fok1U6YVU5BSsjBM9hzFiZNMVxUjGDPv2m2P1SpcWvT9nJbEFowZdsi` [[QR Code](/xmr_address.png)]
 * BTC:&nbsp;`1NL5Z4ooMiEjrzN1n8cyKbbptqU8QTyZbe` [[QR Code](/btc_address.png)]
-* ETH & Tokens:&nbsp;`0x88d22af4f2bda1918e744fd98af3846db06965dc` [[QR Code](/eth_address.png)]
+* ETH&nbsp;&&nbsp;Tokens:&nbsp;`0x88d22af4f2bda1918e744fd98af3846db06965dc` [[QR Code](/eth_address.png)]
 * [Liberapay](https://liberapay.com/0gitnick)
 
 ### Site Mirrors<a name="Site_Mirrors"></a>
